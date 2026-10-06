@@ -1,8 +1,10 @@
 # Упоминания VK
 
+> Обновление 1.0.1 исправляет сохранение входа VK. Проверка антивирусного обнаружения Wacatac для 1.0.0 ещё не завершена; 1.0.1 опубликована как предварительная. Не отключайте защиту ради запуска.
+
 Приложение для Windows, которое собирает посты из системной ленты упоминаний сообщества VK и сохраняет историю проверок. У каждого поста есть ссылка на оригинал.
 
-[**Скачать VK-Mentions.exe**](https://github.com/ighorrre/vk-mentions/releases/latest/download/VK-Mentions.exe)
+[**Скачать VK-Mentions.exe**](https://github.com/ighorrre/vk-mentions/releases/download/v1.0.1/VK-Mentions.exe)
 
 ## Запуск
 
